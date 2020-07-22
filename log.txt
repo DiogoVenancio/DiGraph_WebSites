@@ -1,0 +1,27 @@
+27/01/2020 - 12:59:16 | A | http://www.brunomnsilva.com/sandbox/a.html | INDEX | 1
+27/01/2020 - 12:59:16 | B | http://www.brunomnsilva.com/sandbox/b.html | INDEX | 1
+27/01/2020 - 12:59:16 | C | http://www.brunomnsilva.com/sandbox/c.html | INDEX | 1
+27/01/2020 - 12:59:16 | D | http://www.brunomnsilva.com/sandbox/d.html | INDEX | 1
+27/01/2020 - 12:59:16 | E | http://www.brunomnsilva.com/sandbox/e.html | INDEX | 1
+27/01/2020 - 12:59:16 | G | http://www.brunomnsilva.com/sandbox/g.html | E | 1
+27/01/2020 - 12:59:16 | H | http://www.brunomnsilva.com/sandbox/h.html | E | 1
+27/01/2020 - 12:59:16 | 404 – Not Found | http://www.brunomnsilva.com/sandbox/delete2.html | E | 1
+27/01/2020 - 12:59:16 | F | http://www.brunomnsilva.com/sandbox/f.html | E | 1
+27/01/2020 - 12:59:16 | O | http://www.brunomnsilva.com/sandbox/o.html | F | 1
+27/01/2020 - 12:59:16 | INDEX | http://www.brunomnsilva.com/sandbox/index.html | O | 6
+27/01/2020 - 12:59:16 | M | http://www.brunomnsilva.com/sandbox/m.html | G | 1
+27/01/2020 - 12:59:16 | L | http://www.brunomnsilva.com/sandbox/l.html | G | 1
+27/01/2020 - 12:59:17 | K | http://www.brunomnsilva.com/sandbox/k.html | G | 1
+27/01/2020 - 12:59:17 | N | http://www.brunomnsilva.com/sandbox/n.html | M | 1
+27/01/2020 - 12:59:17 | P | http://www.brunomnsilva.com/sandbox/p.html | N | 1
+27/01/2020 - 12:59:17 | Q | http://www.brunomnsilva.com/sandbox/q.html | P | 1
+27/01/2020 - 12:59:17 | S | http://www.brunomnsilva.com/sandbox/s.html | P | 1
+27/01/2020 - 12:59:17 | R | http://www.brunomnsilva.com/sandbox/r.html | P | 1
+27/01/2020 - 12:59:17 | T | http://www.brunomnsilva.com/sandbox/t.html | P | 1
+27/01/2020 - 12:59:17 | N | http://www.brunomnsilva.com/sandbox/n.html | T | 3
+27/01/2020 - 12:59:17 | INDEX | http://www.brunomnsilva.com/sandbox/index.html | Q | 7
+27/01/2020 - 12:59:17 | J | http://www.brunomnsilva.com/sandbox/j.html | B | 1
+27/01/2020 - 12:59:17 | INDEX | http://www.brunomnsilva.com/sandbox/index.html | B | 7
+27/01/2020 - 12:59:17 | I | http://www.brunomnsilva.com/sandbox/i.html | J | 1
+27/01/2020 - 12:59:17 | INDEX | http://www.brunomnsilva.com/sandbox/index.html | A | 7
+27/01/2020 - 12:59:17 | I | http://www.brunomnsilva.com/sandbox/i.html | A | 2
